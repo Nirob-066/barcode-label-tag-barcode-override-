@@ -1,0 +1,4 @@
+Now, build the app.
+1st make a nice golder background icon for the app  
+The icon should consist 'D' in the middle and backgriund of a 
+barcode...Little Dinero text at the bottom
